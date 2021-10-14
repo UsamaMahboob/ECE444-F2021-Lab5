@@ -2,6 +2,18 @@ Name: Usama Mahboob
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+Git Repo for part 1:
+![Alt text](imgs/1.jpg?raw=true "part1")
+
+Home Page:
+![Alt text](imgs/home.jpg?raw=true "Home Page")
+
+Results Page top:
+![Alt text](imgs/results-top.jpg?raw=true "Results Page top")
+
+Results Page Table:
+![Alt text](imgs/results-bottom.jpg?raw=true "Results Page Table")
+
 
 # CARTE Education Pathways
 
