@@ -3,9 +3,11 @@ body {
     padding: 40px;
     background-color: #C7F3FF;
 }
+
 h1,h3 {
     color: #00204E;
 }
+
 .common-page-heading-container {
     text-align: center;
     margin: 20px auto;
