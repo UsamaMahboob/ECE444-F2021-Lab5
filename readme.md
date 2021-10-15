@@ -2,6 +2,9 @@ Name: Usama Mahboob
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+Activity 6: 
+The table now has clear boundaries showing where it starts and stops. The search filter options are more appropriately spaced in new lines instead of having multiple ones in the same line. The bold search filter criteria makes it easier to see what filters are relevant such as the Division filter.
+
 Git Repo for part 1:
 ![1](imgs/1.PNG)
 
